@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hallo!👋
+* 兴趣使然的电气攻城狮 | Electrical engineer by passion
+* Lang: 🇨🇳 | 🇬🇧 | 🇩🇪
+
 
 <!--
 **Atlantis-Gura/Atlantis-Gura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
